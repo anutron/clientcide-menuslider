@@ -3,7 +3,7 @@ MenuSlider - A simple slide down menu widget
 
 Slides an element down when the user interacts with a "toggler" element (think drop down menus). So long as the user mouses around inside either the toggler or the menu, it remains visible.
 
-![Screenshot](http://github.com/anutron/clientcide-menuslider/blob/master/screenshot.png)
+![Screenshot](http://github.com/anutron/clientcide-menuslider/raw/master/screenshot.png)
 
 How to use
 ----------
