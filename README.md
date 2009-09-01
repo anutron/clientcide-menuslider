@@ -8,6 +8,12 @@ Slides an element down when the user interacts with a "toggler" element (think d
 How to use
 ----------
 
+### Requires
+
+* [MooTools More 1.2.3.1](http://mootools.net/more): Fx.Slide (and its dependences)
+* [HoverGroup](http://github.com/anutron/clientcide-hovergroup/tree/master) (and its dependencies)
+
+
 ### Syntax
 
 	new MenuSlider(menu, subMenu, options);
