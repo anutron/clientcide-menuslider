@@ -2,15 +2,12 @@
 ---
 
 script: MenuSlider.js
-
+authors: Aaron Newton
 description: Slides open a menu when the user mouses over a dom element. leaves it open while the mouse is over that element or the menu.
-
 license: MIT-Style License
-
 requires:
-- more:1.2.4.2/Fx.Slide
-- /HoverGroup
-
+- more/1.2.4.2:Fx.Slide
+- hovergroup/1.0:HoverGroup
 provides:
 - MenuSlider
 ...
