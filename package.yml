@@ -5,5 +5,3 @@ category:       Interface
 tags:           [menu, slide]
 docs:           http://clientcide.com/docs/Layout/MenuSlider
 demo:           http://www.clientcide.com/wiki/cnet-libraries/08-layout/00.1-menuslider
-requires:
-   - { package: 'hovergroup', version: '1.0' }
